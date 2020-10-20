@@ -1,0 +1,16 @@
+.socialReadingPopup{
+    display:flex;
+    flex-direction:column ;
+    justify-content:space-evenly;
+    align-items:center;
+
+
+    min-width: 256px;
+    min-height: 256px;
+    
+
+    
+}
+  .ExtensionButtons {
+    width: 192px !important;
+  }
